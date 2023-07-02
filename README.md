@@ -24,9 +24,7 @@ The app utilizes the OpenWeatherMap API to retrieve weather data. You will need 
 
 2. Obtain an API key from [OpenWeatherMap](https://openweathermap.org/) by signing up for a free account.
 
-3. Create a file named `config.js` in the root directory of the project.
-
-4. Open the `config.js` file and add the following code:
+3. Open the `script.js` file and add the following code:
 
    ```javascript
    const apikey = "YOUR_API_KEY";
